@@ -136,3 +136,6 @@
 - 내 매니페스트: `~/.hermes/slack-manifest.json`
 - 내 게이트웨이 상태: `~/.hermes/gateway_state.json`
 - 내 채널 디렉터리: `~/.hermes/channel_directory.json`
+
+![](images/default.jpg)
+#slack #hermes #봇연동
